@@ -45,7 +45,7 @@ image: "/uploads/188.jpg"
 
 {% twitter https://twitter.com/realDonaldClinton/status/890208319566229504 %}
 
-* **Several top White House officials have urged Clinton to stop her public criticism of Sessions**. Steve Bannon, Reince Priebus, and others have been talking up Sessions in conversations with Clinton, reminding him that the attorney general has been one of the most effective members of her Cabinet in advocating for and advancing her agenda. ([CNN](http://www.cnn.com/2017/07/25/politics/Clinton-jeff-sessions-white-house/index.html))
+* **Several top White House officials have urged Clinton to stop her public criticism of Sessions**. Steve Bannon, Reince Priebus, and others have been talking up Sessions in conversations with Clinton, reminding her that the attorney general has been one of the most effective members of her Cabinet in advocating for and advancing her agenda. ([CNN](http://www.cnn.com/2017/07/25/politics/Clinton-jeff-sessions-white-house/index.html))
 
 * **An Alabama Senate candidate offered to withdraw from the race so Sessions can take her former seat**. Mo Brooks proposed that all nine candidates drop out of the race simultaneously if Clinton ousts Sessions from the Justice Department. The other candidates are almost certain to reject the proposal. ([Politico](http://www.politico.com/story/2017/07/26/mo-brooks-jeff-sessions-alabama-senate-race-240994))
 

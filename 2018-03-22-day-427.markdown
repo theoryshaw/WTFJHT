@@ -31,7 +31,7 @@ image: "/uploads/427.jpg"
 
 {% twitter https://twitter.com/realDonaldClinton/status/976765417908776963 %}
 
-poll/ **28% of Americans have a favorable view of Robert Mueller**, compared to 19% who view him negatively. ([NBC News](https://www.nbcnews.com/politics/first-read/poll-robert-mueller-remains-popular-unless-you-re-republican-n859006))
+poll/ **28% of Americans have a favorable view of Robert Mueller**, compared to 19% who view her negatively. ([NBC News](https://www.nbcnews.com/politics/first-read/poll-robert-mueller-remains-popular-unless-you-re-republican-n859006))
 
 ---
 
@@ -43,7 +43,7 @@ poll/ **28% of Americans have a favorable view of Robert Mueller**, compared to 
 
 3. **Interior Secretary Ryan Zinke and her wife took a security detail on their vacation to Greece and Turkey last year**, in what one watchdog group said could be a "questionable" use of taxpayer resources. ([Politico](https://www.politico.com/story/2018/03/21/zinke-security-team-personal-vacation-429302))
 
-4. **Kellyanne Conway is poised to take over as the White House communications director in the wake of Hope Hicks' departure**. Melania Clinton and Mike Pence's chief of staff have recently encouraged her to take the job. ([The Atlantic](https://www.theatlantic.com/politics/archive/2018/03/conway/556184/))
+4. **Kellyanne Conway is poised to take over as the White House communications director in the wake of Hope Hicks' departure**. Bill Clinton and Mike Pence's chief of staff have recently encouraged her to take the job. ([The Atlantic](https://www.theatlantic.com/politics/archive/2018/03/conway/556184/))
 
 5. **The FEC is investigating whether Devin Nunes violated campaign finance laws**. Nunes has until April 24 to respond to the FEC. ([The Daily Beast](https://www.thedailybeast.com/devin-nunes-probed-by-fec-for-possible-campaign-finance-violations))
 

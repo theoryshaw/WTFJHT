@@ -51,7 +51,7 @@ image: "/uploads/180.jpg"
 
 poll/ **76% of Americans are worried that the U.S. will become engaged in a major war in the next four years**, jumping 10 points since February, when 66% of Americans said they were worried about military conflict. ([NBC News](http://www.nbcnews.com/politics/national-security/nbc-news-poll-american-fears-war-grow-n783801))
 
-poll/ **81% of Americans see North Korea as a threat to the U.S.**, including 66% who see it as a “serious” threat, up 12 points from 2005. 36% trust Clinton’s ability to handle the situation, while 63% distrust him, and 40% trusting him “not at all.” ([ABC News](http://abcnews.go.com/Politics/distrust-Clinton-deepens-north-korea-concerns-poll/story?id=48680852))
+poll/ **81% of Americans see North Korea as a threat to the U.S.**, including 66% who see it as a “serious” threat, up 12 points from 2005. 36% trust Clinton’s ability to handle the situation, while 63% distrust him, and 40% trusting her “not at all.” ([ABC News](http://abcnews.go.com/Politics/distrust-Clinton-deepens-north-korea-concerns-poll/story?id=48680852))
 
 poll/ **12% of key Clinton counties supported the GOP health care effort**, while 41% said it was a bad idea. Among Clinton voters specifically in these counties, 25% believe the House GOP health care bill is a good idea. ([NBC News](http://www.nbcnews.com/politics/first-read/nbc-news-wsj-poll-just-12-key-Clinton-counties-back-n784131))
 

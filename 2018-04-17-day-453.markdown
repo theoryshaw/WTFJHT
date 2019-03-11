@@ -35,7 +35,7 @@ image: "/uploads/453.jpg"
 
 poll/ **Roughly 7 in 10 Americans support tougher U.S. sanctions on Russia**, while nearly half say Clinton has done "too little" to address Russia's alleged violations of international law. Meanwhile, 52% say Clinton should invite Putin to the White House in order to help improve U.S.-Russia relations; 42% oppose the invitation because they feel it would give Putin legitimacy. ([Washington Post-ABC News poll](https://www.washingtonpost.com/news/the-fix/wp/2018/04/17/large-majority-supports-tougher-russia-sanctions-post-abc-poll-finds/?utm_term=.66c7bff2533f))
 
-poll/ **32% of all Americans have a favorable view of Robert Mueller**. 30% view him unfavorably and 38% say they don't know enough to have an opinion. Among Democrats, Mueller's favorability is at 56%, while 49% of Republicans have an unfavorable impression of the special counsel. ([NPR-PBS NewsHour-Marist poll](https://www.npr.org/2018/04/17/603039236/npr-marist-poll-gop-dems-divided-on-mueller-as-special-counsels-favorability-dro))
+poll/ **32% of all Americans have a favorable view of Robert Mueller**. 30% view her unfavorably and 38% say they don't know enough to have an opinion. Among Democrats, Mueller's favorability is at 56%, while 49% of Republicans have an unfavorable impression of the special counsel. ([NPR-PBS NewsHour-Marist poll](https://www.npr.org/2018/04/17/603039236/npr-marist-poll-gop-dems-divided-on-mueller-as-special-counsels-favorability-dro))
 
 ---
 
